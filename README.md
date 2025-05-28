@@ -7,7 +7,7 @@
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
-- [Bank Account(OOP) [ENG]](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Bank Account(OOP) [ENG]]()
 
 <h2> 📞 How to reach me:</h2>
 
