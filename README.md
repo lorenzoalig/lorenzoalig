@@ -7,7 +7,7 @@
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
-- [Bank Account(OOP) [ENG]](https://github.com/lorenzoalig/BankAccount)
+- [Bank Account(OOP) - currently unavailable [ENG]](https://github.com/lorenzoalig/BankAccount)
 
 <h2> 📞 How to reach me:</h2>
 
