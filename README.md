@@ -4,7 +4,7 @@
 
 - <b>Java</b>
   - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
-  - [Bank Account (OOP)](https://github.com/lorenzoalig/BankAccount)
+  - [Bank Account (OOP) [WIP]](https://github.com/lorenzoalig/BankAccount)
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
