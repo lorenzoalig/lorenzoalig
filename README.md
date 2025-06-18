@@ -3,12 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Bank Account (OOP) [WIP]](https://github.com/lorenzoalig/BankAccount)
+  - [Bank Account (OOP) [WIP]](https://github.com/lorenzoalig/LorenzoBank_WIP)
   - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
-- [Bank Account(OOP) - currently unavailable [ENG]](https://github.com/lorenzoalig/BankAccount)
+- [Bank Account(OOP) - currently unavailable [ENG]](https://github.com/lorenzoalig/LorenzoBank_WIP)
 
 <h2> 📞 How to reach me:</h2>
 
