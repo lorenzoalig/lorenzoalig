@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
   - [Bank Account (OOP) [WIP]](https://github.com/lorenzoalig/BankAccount)
+  - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
