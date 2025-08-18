@@ -6,6 +6,9 @@
   - [Bank Account (OOP) [WIP]](https://github.com/lorenzoalig/LorenzoBank_WIP)
   - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
 
+- <b>JavaScript, HTML and CSS</b>
+  - [Basic Calculator](https://github.com/lorenzoalig/Web_Calculator)
+
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
 - [Bank Account(OOP) - currently unavailable [ENG]](https://github.com/lorenzoalig/LorenzoBank_WIP)
