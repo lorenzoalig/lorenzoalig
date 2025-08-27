@@ -9,6 +9,9 @@
 - <b>JavaScript, HTML and CSS</b>
   - [Basic Calculator](https://github.com/lorenzoalig/Web_Calculator)
 
+- <b>Node.js and JavaScript</b>
+  - [Backend API - Movie Reviews](https://github.com/lorenzoalig/API_RESTful_Node.js_MovieReviews)
+
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
 - [Bank Account(OOP) - currently unavailable [ENG]](https://github.com/lorenzoalig/LorenzoBank_WIP)
