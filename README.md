@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Bank Account (OOP) [WIP]](https://github.com/lorenzoalig/LorenzoBank_WIP)
+  - [Lorenzo's Bank](https://github.com/lorenzoalig/LorenzoBank)
   - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
 
 - <b>JavaScript, HTML and CSS</b>
