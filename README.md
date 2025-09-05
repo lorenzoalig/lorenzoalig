@@ -14,7 +14,7 @@
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
-- [Bank Account(OOP) - currently unavailable [ENG]](https://github.com/lorenzoalig/LorenzoBank_WIP)
+- [Lorenzo's Bank - Now Available!! [ENG]](https://youtu.be/JMwfwZwghPo)
 
 <h2> 📞 How to reach me:</h2>
 
