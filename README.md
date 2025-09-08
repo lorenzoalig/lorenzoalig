@@ -9,8 +9,11 @@
 - <b>JavaScript, HTML and CSS</b>
   - [Basic Calculator](https://github.com/lorenzoalig/Web_Calculator)
 
-- <b>Node.js and JavaScript</b>
+- <b>Node.js, JavaScript and MongoDB</b>
   - [Backend API - Movie Reviews](https://github.com/lorenzoalig/API_RESTful_Node.js_MovieReviews)
+ 
+- <b>Nest.js, TypeScript and SQL</b>
+  - [Backend Authenticator - User Creation and Login](https://github.com/lorenzoalig/Backend_UserAuthentication)
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
