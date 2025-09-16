@@ -2,18 +2,18 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java</b>
-  - [Lorenzo's Bank](https://github.com/lorenzoalig/LorenzoBank)
-  - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
+- <b>Nest.js, TypeScript and SQL</b>
+  - [Backend Authenticator - User Creation and Login](https://github.com/lorenzoalig/Backend_UserAuthentication)
+
+- <b>Node.js, JavaScript and MongoDB</b>
+  - [Backend API - Movie Reviews](https://github.com/lorenzoalig/API_RESTful_Node.js_MovieReviews)
 
 - <b>JavaScript, HTML and CSS</b>
   - [Basic Calculator](https://github.com/lorenzoalig/Web_Calculator)
 
-- <b>Node.js, JavaScript and MongoDB</b>
-  - [Backend API - Movie Reviews](https://github.com/lorenzoalig/API_RESTful_Node.js_MovieReviews)
- 
-- <b>Nest.js, TypeScript and SQL</b>
-  - [Backend Authenticator - User Creation and Login](https://github.com/lorenzoalig/Backend_UserAuthentication)
+- <b>Java</b>
+  - [Lorenzo's Bank](https://github.com/lorenzoalig/LorenzoBank)
+  - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
 
 <h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
 
