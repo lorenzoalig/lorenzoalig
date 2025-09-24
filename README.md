@@ -1,5 +1,10 @@
 <h1>Hi, I'm Lorenzo!</h1>
 
+<h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
+
+- [Backend User Creator and Authenticator - Nest.js - Now Available!!! [ENGLISH]](https://youtu.be/UGgffq8k-wE)
+- [Lorenzo's Bank - Java [ENGLISH]](https://youtu.be/JMwfwZwghPo)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Nest.js, TypeScript and SQL</b>
@@ -14,12 +19,6 @@
 - <b>Java</b>
   - [Lorenzo's Bank](https://github.com/lorenzoalig/LorenzoBank)
   - [Snake Game](https://github.com/lorenzoalig/LorenzoSnakeGame)
-
-<h2>📺 Walk-Throughs of my Projects on YouTube:</h2>
-
-- [Backend User Creator and Authenticator (Nest.js) - Now Available!!! [ENGLISH]](https://youtu.be/UGgffq8k-wE)
-- [Lorenzo's Bank [ENGLISH]](https://youtu.be/JMwfwZwghPo)
-- 
 
 <h2> 📞 How to reach me:</h2>
 
