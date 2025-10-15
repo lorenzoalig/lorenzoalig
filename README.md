@@ -11,7 +11,7 @@
   - [SafeMeetings - Platform with Secure Access to Business Rooms](https://github.com/lorenzoalig/SafeMeetings)
   - [Backend Authenticator - User Creation and Login](https://github.com/lorenzoalig/Backend_UserAuthentication)
 
-- <b>Node.js, JavaScript and MongoDB</b>
+- <b>Node.js, Express.js, JavaScript and MongoDB</b>
   - [Backend API - Movie Reviews](https://github.com/lorenzoalig/API_RESTful_Node.js_MovieReviews)
 
 - <b>JavaScript, HTML and CSS</b>
