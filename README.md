@@ -15,7 +15,7 @@
   - [Backend API - Movie Reviews](https://github.com/lorenzoalig/API_RESTful_Node.js_MovieReviews)
 
 - <b>JavaScript, HTML and CSS</b>
-  - [Basic Calculator](https://github.com/lorenzoalig/Web_Calculator)
+  - [Basic Web Calculator](https://github.com/lorenzoalig/Web_Calculator)
 
 - <b>Java</b>
   - [Lorenzo's Bank](https://github.com/lorenzoalig/LorenzoBank)
