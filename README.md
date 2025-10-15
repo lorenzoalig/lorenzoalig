@@ -7,7 +7,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Nest.js, TypeScript and SQL</b>
+- <b>Nest.js, TypeScript, Prisma and MySQL / PostgreSQL </b>
+  - [SafeMeetings - Platform for Secure Access to Rooms](https://github.com/lorenzoalig/SafeMeetings)
   - [Backend Authenticator - User Creation and Login](https://github.com/lorenzoalig/Backend_UserAuthentication)
 
 - <b>Node.js, JavaScript and MongoDB</b>
